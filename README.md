@@ -2,7 +2,7 @@
 - 👀 I’m interested in buidling new features in applications
 - 🌱 I’m currently learning java 
 - 💞️ I’m looking to collaborate on project related to java cloud
-- 📫 How to reach me : dop me message at sagarhmalaviya44@gmail.com
+- 📫 How to reach me : drop me message at sagarhmalaviya44@gmail.com
 
 <!---
 sagarmalaviya/sagarmalaviya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
